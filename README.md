@@ -1,10 +1,9 @@
-### Hi there 👋
+### Xin Chào ~ Hello There! 👋
 
-**KhaiDinhVan/KhaiDinhVan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Github profile! This Github is created with the goal of collaborating with my teammates to works group projects. I mainly used Javascript on AppStudio and commit it to Github.  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... :grinning:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
