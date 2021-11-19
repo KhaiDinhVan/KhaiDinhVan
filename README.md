@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...I love watching anime
 ![Alt Text]
-(<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/uKWBNet3fFTP9ZDZIg" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/tokyo-revengers-tokyorev-rev-uKWBNet3fFTP9ZDZIg">via GIPHY</a></p>)
+(https://giphy.com/gifs/tokyo-revengers-tokyorev-rev-uKWBNet3fFTP9ZDZIg/giphy.gif)
