@@ -12,5 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...I love watching anime
-![Alt Text](https://giphy.com/embed/uKWBNet3fFTP9ZDZIg.gif)
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/uKWBNet3fFTP9ZDZIg" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/tokyo-revengers-tokyorev-rev-uKWBNet3fFTP9ZDZIg">via GIPHY</a></p>
+![Alt Text](https://media.giphy.com/media/uKWBNet3fFTP9ZDZIg/giphy.gif)
