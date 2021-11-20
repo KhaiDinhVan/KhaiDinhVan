@@ -11,4 +11,4 @@ Welcome to my Github profile! This Github is created with the goal of collaborat
 - ⚡ Fun fact: I just added this gif and I think it is pretty cool!
 
 ![Alt Text](https://media.giphy.com/media/uKWBNet3fFTP9ZDZIg/giphy.gif)
-![Alt Text](https://media.giphy.com/media/nekUIJ0LnCtry/giphy.gif)
+![Alt Text](https://media.giphy.com/media/nekUIJ0LnCtry/source.gif)
